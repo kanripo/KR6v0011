@@ -1,17 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:07.275394
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:06
 #+TITLE: 最妙勝定經
 #+PROPERTY: CBETA_ID W01n0010
 #+PROPERTY: ID KR6v0011
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 01, No. 010
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0011_W_001-0338a> 
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 最妙勝定經¶
 整理者　方廣錩¶
 ¶
 
@@ -47,10 +47,9 @@
 
 <pb:KR6v0011_W_001-0339a>¶
 
-錄文¶
+* 〔錄文〕¶
 ¶
-
- 最妙勝定經¶
+最妙勝定經¶
 ¶
 
 如是我聞：¶
