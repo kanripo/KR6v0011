@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:07.275394
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:06
 #+TITLE: 最妙勝定經
 #+PROPERTY: CBETA_ID W01n0010
 #+PROPERTY: ID KR6v0011
@@ -11,7 +11,7 @@
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 題解¶
 整理者　方廣錩¶
 ¶
 
@@ -47,7 +47,7 @@
 
 <pb:KR6v0011_W_001-0339a>¶
 
-錄文¶
+* 錄文¶
 ¶
 
  最妙勝定經¶
